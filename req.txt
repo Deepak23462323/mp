@@ -1,9 +1,6 @@
-arxiv
-arxiv2text
 requests
 pandas
 scikit-learn
-lightgbm
 numpy
 
 
